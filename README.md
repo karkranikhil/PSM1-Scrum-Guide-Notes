@@ -18,11 +18,11 @@
 * Scrum Master serves the Development Team in several ways, including, removing impediments to the Development Team’s progress.
 
 ## The Scrum Master serves the Development Team in several ways like:
-• Coaching the Development Team in self-organization and cross-functionality.
-• Helping the Development Team to create high-value products.
-• Removing impediments to the Development Team’s progress.
-• Facilitating Scrum events as requested or needed.
-• Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
+* Coaching the Development Team in self-organization and cross-functionality.
+* Helping the Development Team to create high-value products.
+* Removing impediments to the Development Team’s progress.
+* Facilitating Scrum events as requested or needed.
+* Coaching the Development Team in organizational environments in which Scrum is not yet fully adopted and understood.
 
 ## What is an output of a Sprint?
 * A potentially releasable Increment of “Done” product.
